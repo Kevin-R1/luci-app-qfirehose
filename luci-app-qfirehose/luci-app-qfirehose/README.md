@@ -53,9 +53,4 @@ This project is licensed under the GPLv3 License - see the LICENSE file for deta
 
 ## Author
 
-- Zag (ntbowen2001@gmail.com)
-- Homepage: https://pcat.qsim.top
-
-## Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
